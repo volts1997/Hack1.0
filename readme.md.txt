@@ -1,3 +1,3 @@
-Name: Hing Chai Yen
-Major: Computer Science
+Name: Hing Chai Yen, YuJie Wen
+Major: Computer Science, Economics
 https://github.com/volts1997/Hack1.0.git
